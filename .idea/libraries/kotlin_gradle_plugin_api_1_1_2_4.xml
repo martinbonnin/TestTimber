@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin-gradle-plugin-api-1.1.2-4">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/m2repository/org/jetbrains/kotlin/kotlin-gradle-plugin-api/1.1.2-4/kotlin-gradle-plugin-api-1.1.2-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
